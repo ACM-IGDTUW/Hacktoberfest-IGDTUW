@@ -2,7 +2,7 @@
 
 Your task is to the create a markdown file inside the participants folder and name it as your GitHub username. Example: `JoeNeilson.md`
 
-Inside the file add contents as shown in the `demo.md` file and then push the changes.
+Inside the file add contents as shown in the `soumyaa1804.md` file and then push the changes.
 
 Make sure not to change any other file but yours.
 
@@ -15,6 +15,9 @@ Fork the repository and then clone it by running this command:
 
 `git clone https://github.com/<github username>/Hacktoberfest-IGDTUW.git`
 
+Add a remote to the original repository:
+
+`git remote add upstream https://github.com/ACM-IGDTUW/Hacktoberfest-IGDTUW`
 
 Create a branch:
 
