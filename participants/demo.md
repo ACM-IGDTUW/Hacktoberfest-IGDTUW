@@ -1,0 +1,26 @@
+# Soumya Sharma
+
+Github Username: soumyaa1804
+
+GitHub Profile: [soumyaa1804](https://github.com/soumyaa1804)
+
+College: [IGDTUW](https://www.igdtuw.ac.in/)
+
+Course: B. Tech.
+
+Branch: Computer Science and Engineering
+
+Batch: 2018 - 2022
+
+
+## Hacktoberfest IGDTUW
+
+![Icon](../images/Icon.png)
+
+**Hacktoberfest 2020** is a month-long celebration of open source software run by DigitalOcean in partnership with **Intel** and **DEV**. Hacktoberfest is open to everyone in our global community!
+
+**How to participate?**
+
+_You just need to make four contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt_.
+
+
