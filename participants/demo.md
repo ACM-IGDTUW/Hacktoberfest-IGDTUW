@@ -21,6 +21,6 @@ Batch: 2018 - 2022
 
 **How to participate?**
 
-_You just need to make four contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt_.
+_You just need to make four contributions to any participating open source repository hosted on GitHub before October 31 and can receive a free Hacktoberfest t-shirt_.
 
 
