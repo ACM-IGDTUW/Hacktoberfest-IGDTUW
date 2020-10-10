@@ -17,8 +17,6 @@ Batch: 2018 - 2022
 
 ## Hacktoberfest IGDTUW
 
-![Icon](../images/Icon.png)
-
 **Hacktoberfest 2020** is a month-long celebration of open source software run by DigitalOcean in partnership with **Intel** and **DEV**. Hacktoberfest is open to everyone in our global community!
 
 **How to participate?**
