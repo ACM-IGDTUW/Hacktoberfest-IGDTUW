@@ -19,7 +19,7 @@ The speaker, [Soumya Sharma](https://github.com/soumyaa1804), is a pre-final yea
 **Time**: 6-7pm
 
 
-**Register for the event here**: https://organize.mlh.io/participants/events/5384-hacktoberfest-igdtuw
+**Register for the event [here](https://organize.mlh.io/participants/events/5384-hacktoberfest-igdtuw)**
 
 ## Schedule
 
